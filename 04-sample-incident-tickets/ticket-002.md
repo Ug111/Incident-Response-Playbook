@@ -1,4 +1,8 @@
-# Incident Ticket #002
+# Incident Ticket #002                    MITRE Technique
+  (SSH Brute-Force)                 T1110.001 - Brute Force: Password Guessing
+
+**MITRE Attack Technique:** T1110.001 - Brute Force: Password Guessing 
+**Tactic:** Credential Access
 
 **Status:** Closed 
 **Severity:** High (initial) -> Downgraded to Medium after investigation
