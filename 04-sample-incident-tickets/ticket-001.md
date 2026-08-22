@@ -1,4 +1,8 @@
-# Incident Ticket #001
+# Incident Ticket #001       MITRE Technique
+ (Port Scan)                 T1046 - Network Service Discovery
+
+**MITRE ATTACK Technique:** T1110.001 - Brute Force: Password Guessing
+**Tactics** Credential Access
 
 **Status:** Closed
 **Severity:** Medium
