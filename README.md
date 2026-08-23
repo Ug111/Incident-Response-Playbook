@@ -1,10 +1,25 @@
-# Incident Response Playbook - SOC Analyst
+# 🛡️ Incident Response Playbook - SOC Analyst
+
+A documented incident response workflow demonstrating SOC analyst core competencies: event detection, triage, investigation, escalation, and closure. Built using real alert data from my Suricata IDS lab and Splunk SIEM lab as sample incident source.
+
+| Playbook Version | Framework Focus | Target Telemetry | License |
+| :--- | :--- | :--- | :--- |
+| ![Version](https://shields.io) | ![NIST](https://shields.io) | ![MITRE](https://shields.io) | ![License](https://shields.io) |
+
+---
+
 
 ## Overview
 A documented incident response workflow demonstrating SOC analyst core competencies: event detection, triage, investigation, escalation, and closure. Built using real alert data from my Suricata IDS lab and Splunk SIEM lab as sample incident source.
 
+---
+
+
 ## Purpose
 This playboook demonstrates my understanding of the full incident lifecycle - the same workflow used in production SOC environments (event detection - filtering - investigation - escalation - closure).
+
+---
+
 
 ## Structure
 - `01-detection-and-triage.md` - How incidents are identified and prioritized
@@ -13,9 +28,15 @@ This playboook demonstrates my understanding of the full incident lifecycle - th
 - `04-sample-incident-tickets/` - 3 sanitized example tickets from my labs
 - `05-closure-and-lesons-learned.md` - Closure criteria and post-incident review
 
+---
+
+
 ## Related Projects
 - [IDS-Threat-Detection-Lab](https://github.com/Ug111/IDS-Threat-Detection-Lab) - Source of Suricata alert data
 - [SSH-Brute-Force-Detection-Splunk](https://github.com/Ug111/SSH-Brute-Force-Detection-Splunk) - Source of SIEM correlation data
+
+---
+
 
 ## Skills Demonstrated
 ✅ Event detection and severity triage
@@ -25,8 +46,13 @@ This playboook demonstrates my understanding of the full incident lifecycle - th
 ✅ Root cause analysis 
 ✅ Post-incident review process
 
+---
+
+
 ## MITRE ATTA&CK Coverage
 - [x] T1046 - Network Service Discovery (Port Scan)
 - [x] T1110.001 Brute Force: Password Guessing (SSH)
 - [ ] T1566 - Phishing (Planned)
 - [ ] T1053 - Scheduled Task/Job (planned) 
+
+---
