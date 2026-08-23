@@ -83,12 +83,14 @@ This playboook demonstrates my understanding of the full incident lifecycle - th
 
 
 ## Skills Demonstrated
+
 ✅ Event detection and severity triage
 ✅ System investigation methodology
 ✅ Escalation decision-making
 ✅ Incident documentation and reporting
 ✅ Root cause analysis 
 ✅ Post-incident review process
+
 ---
 
 
