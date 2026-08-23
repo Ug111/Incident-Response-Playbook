@@ -22,5 +22,11 @@ This playboook demonstrates my understanding of the full incident lifecycle - th
 ✅ System investigation methodology
 ✅ Escalation decision-making
 ✅ Incident documentation and reporting
-✅ Root cause analysis
+✅ Root cause analysis 
 ✅ Post-incident review process
+
+## MITRE ATTA&CK Coverage
+- [x] T1046 - Network Service Discovery (Port Scan)
+- [x] T1110.001 Brute Force: Password Guessing (SSH)
+- [ ] T1566 - Phishing (Planned)
+- [ ] T1053 - Scheduled Task/Job (planned) 
