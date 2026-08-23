@@ -35,14 +35,12 @@ This playbook demonstrates a structured understanding of the full incident lifec
 ---
 
 ## Key Competencies Demonstrated
-
 * ✅ Event detection and severity triage
 * ✅ System investigation methodology
 * ✅ Escalation decision-making
 * ✅ Incident documentation and ticketing
 * ✅ Root cause analysis
 * ✅ Post-incident review & remediation
-
 ---
 
 ## MITRE ATT&CK® Coverage
