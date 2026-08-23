@@ -14,7 +14,7 @@ This playboook demonstrates my understanding of the full incident lifecycle - th
 - `05-closure-and-lesons-learned.md` - Closure criteria and post-incident review
 
 ## Related Projects
-- [IDS Threat Detection Lab](https://github.com/Ug111/ID-Threat-Detection-Lab) - Source of Suricata alert data
+- [IDS-Threat-Detection-Lab](https://github.com/Ug111/ID-Threat-Detection-Lab) - Source of Suricata alert data
 - [SSH-Brute-Force-Detection-Splunk](https://github.com/Ug111/SSH-Brute-Force-Detection-Splunk) - Source of SIEM correlation data
 
 ## Skills Demonstrated
