@@ -89,7 +89,6 @@ This playboook demonstrates my understanding of the full incident lifecycle - th
 ✅ Incident documentation and reporting
 ✅ Root cause analysis 
 ✅ Post-incident review process
-
 ---
 
 
