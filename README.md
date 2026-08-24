@@ -60,11 +60,3 @@ This playbook demonstrates my understanding of the full incident lifecycle - the
 - [SSH-Brute-Force-Detection-Splunk](https://github.com/Ug111/SSH-Brute-Force-Detection-Splunk) - Source of SIEM correlation data
 
 ---
-
-## MITRE ATTA&CK Coverage
-- [x] T1046 - Network Service Discovery (Port Scan)
-- [x] T1110.001 Brute Force: Password Guessing (SSH)
-- [ ] T1566 - Phishing (Planned)
-- [ ] T1053 - Scheduled Task/Job (planned) 
-
----
