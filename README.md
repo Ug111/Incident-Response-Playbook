@@ -30,13 +30,6 @@ This playbook demonstrates my understanding of the full incident lifecycle - the
 
 ---
 
-## Related Lab Projects
-
-* [IDS-Threat-Detection-Lab](https://github.com/Ug111/IDS-Threat-Detection-Lab) - Primary source for Suricata network alert data.
-* [SSH-Brute-Force-Detection-Splunk](https://github.com/Ug111/SSH-Brute-Force-Detection-Splunk) - Primary source for SIEM correlation data.
-
----
-
 ## Key Competencies Demonstrated
 * ✅ Event detection and severity triage
 * ✅ System investigation methodology
