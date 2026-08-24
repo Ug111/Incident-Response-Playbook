@@ -61,19 +61,6 @@ This playbook demonstrates my understanding of the full incident lifecycle - the
 
 ---
 
-
-## Skills Demonstrated
-
-✅ Event detection and severity triage
-✅ System investigation methodology
-✅ Escalation decision-making
-✅ Incident documentation and reporting
-✅ Root cause analysis 
-✅ Post-incident review process
-
----
-
-
 ## MITRE ATTA&CK Coverage
 - [x] T1046 - Network Service Discovery (Port Scan)
 - [x] T1110.001 Brute Force: Password Guessing (SSH)
