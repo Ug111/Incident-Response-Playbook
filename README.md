@@ -11,9 +11,12 @@ A documented incident response workflow demonstrating SOC analyst core competenc
 
 ## Overview
 
-This playbook demonstrates a structured understanding of the full incident lifecycle—mirroring the standard workflows used in production SOC environments:
+A documented incident response workflow demonstrating SOC analyst core competencies: event detection, triage, investigation, escalation, and closure. Built using real alert data from my Suricata IDS lab and Splunk SIEM lab as sample incident source.
 
 **Event Detection** → **Triage & Filtering** → **Investigation** → **Escalation** → **Closure & Lessons Learned**
+
+## Purpose
+This playboook demonstrates my understanding of the full incident lifecycle - the same workflow used in production SOC environments (event detection - filtering - investigation - escalation - closure).
 
 ---
 
@@ -52,19 +55,6 @@ This playbook demonstrates a structured understanding of the full incident lifec
 
 ---
 
-
-## Overview
-A documented incident response workflow demonstrating SOC analyst core competencies: event detection, triage, investigation, escalation, and closure. Built using real alert data from my Suricata IDS lab and Splunk SIEM lab as sample incident source.
-
----
-
-
-## Purpose
-This playboook demonstrates my understanding of the full incident lifecycle - the same workflow used in production SOC environments (event detection - filtering - investigation - escalation - closure).
-
----
-
-
 ## Structure
 - `01-detection-and-triage.md` - How incidents are identified and prioritized
 - `02-investigation-workflow.md` - Systematic investigation methodology
@@ -73,7 +63,6 @@ This playboook demonstrates my understanding of the full incident lifecycle - th
 - `05-closure-and-lesons-learned.md` - Closure criteria and post-incident review
 
 ---
-
 
 ## Related Projects
 - [IDS-Threat-Detection-Lab](https://github.com/Ug111/IDS-Threat-Detection-Lab) - Source of Suricata alert data
