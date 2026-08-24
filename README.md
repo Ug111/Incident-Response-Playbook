@@ -55,15 +55,6 @@ This playbook demonstrates my understanding of the full incident lifecycle - the
 
 ---
 
-## Structure
-- `01-detection-and-triage.md` - How incidents are identified and prioritized
-- `02-investigation-workflow.md` - Systematic investigation methodology
-- `03-escalation-decision-tree.md` - When and how the escalate
-- `04-sample-incident-tickets/` - 3 sanitized example tickets from my labs
-- `05-closure-and-lessons-learned.md` - Closure criteria and post-incident review
-
----
-
 ## Related Projects
 - [IDS-Threat-Detection-Lab](https://github.com/Ug111/IDS-Threat-Detection-Lab) - Source of Suricata alert data
 - [SSH-Brute-Force-Detection-Splunk](https://github.com/Ug111/SSH-Brute-Force-Detection-Splunk) - Source of SIEM correlation data
