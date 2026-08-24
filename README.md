@@ -60,7 +60,7 @@ This playbook demonstrates my understanding of the full incident lifecycle - the
 - `02-investigation-workflow.md` - Systematic investigation methodology
 - `03-escalation-decision-tree.md` - When and how the escalate
 - `04-sample-incident-tickets/` - 3 sanitized example tickets from my labs
-- `05-closure-and-lesons-learned.md` - Closure criteria and post-incident review
+- `05-closure-and-lessons-learned.md` - Closure criteria and post-incident review
 
 ---
 
