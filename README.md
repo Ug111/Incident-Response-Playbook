@@ -53,3 +53,8 @@ This playbook demonstrates my understanding of the full incident lifecycle - the
 - [SSH-Brute-Force-Detection-Splunk](https://github.com/Ug111/SSH-Brute-Force-Detection-Splunk) - Source of SIEM correlation data
 
 ---
+
+## Technical Detection Evidence
+
+This incident scenario is based on the SSH Brute-Force Detection lab, where Splunk was used to correlate repeated failed SSH authentication
+attempts with subsequent successful authentication from the same source IP.
