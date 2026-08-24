@@ -48,13 +48,15 @@ This playbook demonstrates my understanding of the full incident lifecycle - the
 
 ---
 
+## Technical Detection Evidence
+
+- This incident scenario is based on the SSH Brute-Force Detection lab, where Splunk was used to correlate repeated failed SSH authentication
+attempts with subsequent successful authentication from the same source IP.
+
+- The scenario also demonstrates network-level threat detection using Suricata IDS. Suspicious network activity generated IDS alerts that were analyzed
+through Suricata's structured eve.json output, allowing the analyst to identify the source of the activity affected target, alert details, and supporting evidence.
+
 ## Related Projects
 - [IDS-Threat-Detection-Lab](https://github.com/Ug111/IDS-Threat-Detection-Lab) - Source of Suricata alert data
 - [SSH-Brute-Force-Detection-Splunk](https://github.com/Ug111/SSH-Brute-Force-Detection-Splunk) - Source of SIEM correlation data
 
----
-
-## Technical Detection Evidence
-
-This incident scenario is based on the SSH Brute-Force Detection lab, where Splunk was used to correlate repeated failed SSH authentication
-attempts with subsequent successful authentication from the same source IP.
