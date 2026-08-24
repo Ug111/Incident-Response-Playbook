@@ -16,7 +16,7 @@ A documented incident response workflow demonstrating SOC analyst core competenc
 **Event Detection** → **Triage & Filtering** → **Investigation** → **Escalation** → **Closure & Lessons Learned**
 
 ## Purpose
-This playboook demonstrates my understanding of the full incident lifecycle - the same workflow used in production SOC environments (event detection - filtering - investigation - escalation - closure).
+This playbook demonstrates my understanding of the full incident lifecycle - the same workflow used in production SOC environments (event detection - filtering - investigation - escalation - closure).
 
 ---
 
